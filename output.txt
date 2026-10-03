@@ -1,0 +1,8 @@
+Numbers generated: 1000000
+
+       Number          Specified        Obtained     Discrepancy
+           1        0.200000        0.200090        0.000090
+           2        0.400000        0.400701        0.000701
+           3        0.400000        0.399209        0.000791
+
+The largest frequency discrepancy: 0.000791 (number 3)
